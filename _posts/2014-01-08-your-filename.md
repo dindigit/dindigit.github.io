@@ -6,4 +6,4 @@ published: true
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
-![VMartin.jpeg](/images/VMartin.jpeg)
+![My Wonderful Home in Villamartin](/images/VMartin.jpeg)
