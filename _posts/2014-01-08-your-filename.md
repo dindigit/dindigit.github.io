@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: harry Krishna
 ---
 ## A New Post
