@@ -1,5 +1,6 @@
 ---
 published: true
+title: Kushty
 ---
 
 ## A New Post
