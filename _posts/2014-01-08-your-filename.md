@@ -1,6 +1,6 @@
 ---
 layout: post
-title: harry Krishna
+title: Harry Krishna
 ---
 ## A New Post
 
