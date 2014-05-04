@@ -1,3 +1,8 @@
+---
+layout: default
+title: Using Stackedit
+---
+
 ##Using Stackedit to Publish and Edit Static Pages on Blogger
 
 ###To publish a new page.
