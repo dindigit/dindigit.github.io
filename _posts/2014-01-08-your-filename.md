@@ -1,10 +1,4 @@
 ---
-layout: post
-title: Kushty
-published: true
----
-
----
 layout: default
 title: harry Krishna
 ---
