@@ -1,7 +1,7 @@
- ---
+---
  layout: default
  title: My Shiny Site
- ---
+---
 
 ##Using Stackedit to Publish and Edit Static Pages on Blogger
 
