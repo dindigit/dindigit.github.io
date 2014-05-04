@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Using Stackedit
 ---
 
 ##Using Stackedit to Publish and Edit Static Pages on Blogger
