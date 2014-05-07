@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Monkey Puzzle
+published: true
 ---
 
 ## A Puzzling Post
@@ -8,3 +9,5 @@ title: Monkey Puzzle
 Paddy woke up and without more than a secods thought was on his feet and heading for the bathroom. Bladder empty he went down to the kitchen and started to run through his morning rituals.
 
 Coffee on. Cereals poured and fruit cut. Newspapers fetched from the doormat in the hall. As he glanced at the headlines the coffee pot strted to splutter. Paddy rose but his eye awas court by a small ad in the bottom of the page. Start your Gorgeous Life today. starting today
+
+###This is the new heading
