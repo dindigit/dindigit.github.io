@@ -10,4 +10,6 @@ Paddy woke up and without more than a secods thought was on his feet and heading
 
 Coffee on. Cereals poured and fruit cut. Newspapers fetched from the doormat in the hall. As he glanced at the headlines the coffee pot strted to splutter. Paddy rose but his eye awas court by a small ad in the bottom of the page. Start your Gorgeous Life today. starting today
 
-###This is the new heading
+### This is the new heading
+
+![Dave showing his trials rider skills, climbing a large rocky step.](/uploads/overrock.jpg)
