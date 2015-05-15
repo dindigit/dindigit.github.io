@@ -12,4 +12,4 @@ Coffee on. Cereals poured and fruit cut. Newspapers fetched from the doormat in 
 
 ### This is the new heading
 
-![Dave showing his trials rider skills, climbing a large rocky step.](/uploads/overrock.jpg title="Dave climbing stone step on trials motorbike.")
+![Dave showing his trials rider skills, climbing a large rocky step.](/uploads/overrock.jpg title='climbing stone step on trials motorbike.')
