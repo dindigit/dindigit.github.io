@@ -15,9 +15,9 @@ title: My Growing Site
 $ git fetch origin
 $ git checkout gh-pages
 </code></pre>
-<ul>
+<ul class="repeatables">
   {% for post in site.posts %}
-    <li>
+    <li class="editable">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
