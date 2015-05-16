@@ -3,7 +3,7 @@ layout: post
 title: Monkey Puzzle
 published: true
 author: Dave Longley
-author-email: "dklongley@gmail.com"
+author-email: dklongley@gmail.com
 ---
 
 ## A Puzzling Post
