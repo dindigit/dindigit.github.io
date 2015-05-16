@@ -17,3 +17,5 @@ Coffee on. Cereals poured and fruit cut. Newspapers fetched from the doormat in 
 
 ![Dave showing his trials rider skills, climbing a large rocky step.](/uploads/overrock.jpg)
 
+<p>Post Published by <a href="mailto:{{page.author-email}}">{{page.author}}</a></p>
+
