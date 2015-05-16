@@ -2,6 +2,8 @@
 layout: post
 title: Monkey Puzzle
 published: true
+author: Dave Longley
+author-email: dklongley@gmail.com
 ---
 
 ## A Puzzling Post
@@ -15,3 +17,5 @@ Coffee on. Cereals poured and fruit cut. Newspapers fetched from the doormat in 
 ##### Two Months ago this young lad was living a humdrum life in the inner city.
 
 ![Dave showing his trials rider skills, climbing a large rocky step.](/uploads/overrock.jpg)
+
+Published by <a href="mail:{{ post.author-email }}">{{ post.author }}</a>
