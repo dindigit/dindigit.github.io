@@ -1,5 +1,5 @@
 ---
-title: My Latest Stack
+title: Danky Dank Tank
 layout: post
 published: true
 date: 2015-09-20
