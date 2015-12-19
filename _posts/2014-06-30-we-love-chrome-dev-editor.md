@@ -8,8 +8,8 @@ published: true
 
 ### To publish a new page.
 
-CLone a git Repo and start coding. Woho that's easy.
+Clone a git Repo and start coding. Woho that's super easy.
 
-This is the way to Amarillo. Where Some lass is waiting for me.
+This is the way to do you Static Sites. This is v cool.
 
 ![](/uploads/versions/italianvillage---x----1072-572x---.jpg)
