@@ -11,6 +11,4 @@ Maybe next year we will be luckier. I think perhaps Santa ought to think about g
 
 Amazon appear to be very serious about this. I for one think for the moment this is nothing more than a publicity stunt. What do you think? Can you see any potential problems with drone deliveries?
 
-&nbsp;
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Le46ERPMlWU" frameborder="0" allowfullscreen=""></iframe>
