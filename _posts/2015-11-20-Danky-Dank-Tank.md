@@ -1,9 +1,15 @@
 ---
 title: Danky Dank Tank
+date: '2015-09-20 00:00:00'
+categories: []
 layout: post
 published: true
-date: 2015-09-20
-tags: water, buffalo
+tags:
+- water,
+- buffalo
+slug: Danky-Dank-Tank
+draft: false
+
 ---
 ###This is the Danky Danky Tank
 

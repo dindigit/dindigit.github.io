@@ -1,8 +1,13 @@
 ---
- layout: post
- title: My Shiny Site
----
+title: My Shiny Site
+date: '2014-05-04 00:00:00'
+categories: []
+layout: post
+slug: Adding-Another-Post
+tags: []
+draft: false
 
+---
 ##Using Stackedit to Publish and Edit Static Pages on Blogger
 
 ###To publish a new page.

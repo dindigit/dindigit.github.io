@@ -1,10 +1,15 @@
 ---
+title: The Santa Post
+date: '2015-12-19 00:00:00'
+categories: []
 layout: post
 publish: true
-title: The Santa Post
 author: Mr Xmas
----
+slug: waiting-for-the-bearded-guy-dressed-in-red
+tags: []
+draft: false
 
+---
 It was on a night like this that Santa did not arrive. The weather has been very unusual. We have been experiencing warm spring like temperatures for most of December and now it was impossible for the reindeer to reach us.
 
 Maybe next year we will be luckier. Perhaps Santa should talk to Amazon.
