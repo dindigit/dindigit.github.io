@@ -6,6 +6,7 @@ layout: post
 slug: your-filename
 tags: []
 draft: false
+location: United Kingdom
 
 ---
 ## A New Post
