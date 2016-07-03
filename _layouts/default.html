@@ -26,6 +26,6 @@
   {{ content }}
   </section>
   </div>
-  {{ page.author | prepend: "written by: " }}
+  {{ page.author | prepend: "<span style='color: #fff'></span>written by: " | append: "</span>"}}
 </body>
 </html>
