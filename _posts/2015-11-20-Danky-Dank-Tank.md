@@ -9,6 +9,7 @@ tags:
 - buffalo
 slug: Danky-Dank-Tank
 draft: false
+SEO-Description: SEO
 
 ---
 ###This is the Danky Danky Tank
