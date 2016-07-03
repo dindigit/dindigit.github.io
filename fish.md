@@ -12,8 +12,6 @@ Type|Where
 -|-
 trout|river
 shark|ocean
-&nbsp;| &nbsp;
--|-
-Villamartin|![](http://lh3.googleusercontent.com/-lHglhmh5Bwg/VMlFJjWp7iI/AAAAAAAAGN0/8YU6YUKdgcg/s0/1a.jpg)
+westeners|![](http://lh3.googleusercontent.com/-lHglhmh5Bwg/VMlFJjWp7iI/AAAAAAAAGN0/8YU6YUKdgcg/s0/1a.jpg)
 
 
