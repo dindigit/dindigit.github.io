@@ -1,8 +1,9 @@
 ---
 title: Fish
-layout: post
+layout: normal
 published: true
 draft: false
+author: D K Longley
 
 ---
 ##Fish Swim##
