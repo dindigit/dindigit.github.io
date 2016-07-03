@@ -5,7 +5,7 @@ published: true
 
 <div id="post">
 {{ content }}
-<p>Published by <a href="mailto:{{page.author-email}}">{{page.author}}</a> on {{ post.date | date_to_string }}</p>
+<p>Published by <a href="mailto:{{page.author-email}}">{{page.author}}</a>{% if post.date %} on {{ post.date | date_to_string }} {% endif %}</p>
 </div>
 
 <div id="related">
