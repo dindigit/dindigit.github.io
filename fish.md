@@ -1,6 +1,6 @@
 ---
 title: Fish
-layout: normal
+layout: default
 published: true
 draft: false
 author: D K Longley
