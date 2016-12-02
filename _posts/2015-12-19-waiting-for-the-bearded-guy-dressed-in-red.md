@@ -8,7 +8,7 @@ author: Mr Xmas
 slug: waiting-for-the-bearded-guy-dressed-in-red
 tags: []
 draft: false
-
+published: true
 ---
 It was on a night like this that Santa did not arrive. The weather has been very unusual. We have been experiencing warm spring like temperatures for most of December and now it was impossible for the reindeer to reach us.
 
